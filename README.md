@@ -1,6 +1,8 @@
 # chatbot-simple-ruby
 Chatbot simple ruby (No Framework)
 
+![ruby](https://user-images.githubusercontent.com/108712079/195240521-b683e24c-400a-4d86-8473-54111732fcb2.png)
+
 [![Actions Status: MinGW](https://github.com/ruby/ruby/workflows/MinGW/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"MinGW")
 [![Actions Status: MJIT](https://github.com/ruby/ruby/workflows/MJIT/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"MJIT")
 [![Actions Status: Ubuntu](https://github.com/ruby/ruby/workflows/Ubuntu/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"Ubuntu")
